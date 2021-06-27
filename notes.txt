@@ -1,0 +1,14 @@
+PUT vs PATCH: https://cassiomolin.com/2019/06/10/using-http-patch-in-spring/
+
+Json merge vs Json merge patch:
+There are two RFCs on the JSON patch to support
+JSON Merge Patch - https://tools.ietf.org/html/rfc7386
+JSON Patch - https://tools.ietf.org/html/rfc6902
+
+Json patch library: https://github.com/java-json-tools/json-patch
+
+
+
+
+
+
